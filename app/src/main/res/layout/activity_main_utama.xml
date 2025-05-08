@@ -14,18 +14,18 @@
         android:orientation="horizontal">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonKiri"
+            android:id="@+id/btnPremiere"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_weight="0.9"
-            android:text="Kiri" />
+            android:text="Premiere" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonKanan"
+            android:id="@+id/btnLiga"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_weight="0.9"
-            android:text="Kanan" />
+            android:text="La liga" />
     </LinearLayout>
 
 </LinearLayout>
